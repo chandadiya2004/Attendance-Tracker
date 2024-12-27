@@ -18,6 +18,10 @@ Student Removal: If needed, students can be removed from the attendance list, ke
 
 # Requirements:
 Python 3.x
+
 Tkinter (usually included with Python)
+
 Pandas (install via pip install pandas)
+
+
 This application is designed to simplify the administrative burden of tracking student attendance, while offering an easy-to-use and effective solution for educators and school administrators.
