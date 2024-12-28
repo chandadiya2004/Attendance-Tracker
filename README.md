@@ -1,4 +1,4 @@
-![Attendance Tracker](https://c8.alamy.com/comp/2R7CDG2/attendance-management-system-words-on-wooden-blocks-3d-illustration-2R7CDG2.jpg)
+![Attendance Tracker](https://pikaso.cdnpk.net/private/production/1303507632/render.jpeg?token=exp=1764633600~hmac=fd50ca7476a65444efffaf80c322a98bed38cfd28bb67fd255ff8d8f911f410f)
 
 # Attendance Tracker
 The Attendance Tracker is a Python-based graphical user interface (GUI) application that streamlines the process of tracking and managing student attendance. Developed using the Tkinter library, this program is designed to provide an intuitive platform for teachers or administrators to register students, record attendance, and maintain detailed records stored in CSV format.
